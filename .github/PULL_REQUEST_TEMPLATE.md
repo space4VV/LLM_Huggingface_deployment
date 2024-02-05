@@ -3,8 +3,6 @@ Feel free to add images, references, or whatever you feel necessary for others t
 
 ## What is the new behaviour?
 
-## Issue ticket number and link  (from ADS)
-
 ## Have you...
 * [ ] self-reviewed your code?
 * [ ] written unit tests?
